@@ -1,3 +1,5 @@
-# nb_template
+# nb_wtstim
 
-template repository for jupyter notebook pages.
+jupyter notebook pages for the paper titled "Interaction of Phase Singularities on Spiral Wave Tail – Reconsideration of Capturing Excitable Gap –"
+
+
