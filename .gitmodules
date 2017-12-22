@@ -1,0 +1,3 @@
+[submodule "opmap"]
+	path = opmap
+	url = git@github.com:chenaoki/opmap.git
